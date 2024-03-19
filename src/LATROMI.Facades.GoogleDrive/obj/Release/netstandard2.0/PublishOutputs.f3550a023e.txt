@@ -1,0 +1,10 @@
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\LATROMI.Facades.GoogleDrive.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\LATROMI.Facades.GoogleDrive.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\Google.Apis.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\Google.Apis.Auth.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\Google.Apis.Core.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\Google.Apis.Drive.v3.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\MimeTypesMap.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\Newtonsoft.Json.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\System.CodeDom.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\Release\netstandard2.0\publish\System.Management.dll

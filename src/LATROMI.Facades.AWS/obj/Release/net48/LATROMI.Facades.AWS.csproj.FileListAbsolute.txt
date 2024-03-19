@@ -6,7 +6,11 @@ C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\net48\LATROMI.Facades.AWS.AssemblyInfo.cs
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\net48\LATROMI.Facades.AWS.csproj.CoreCompileInputs.cache
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\net48\LATROMI.Facades.AWS.dll
-C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\net48\LATROMI.Facades.AWS.pdb
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\bin\Release\net48\AWSSDK.Core.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\bin\Release\net48\AWSSDK.S3.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\net48\LATROMI.Facades.AWS.csproj.CopyComplete
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\distr\Release\net48\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\distr\Release\net48\LATROMI.Facades.AWS.pdb
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\Release\net48\LATROMI.Facades.AWS.dll
+C:\LATROMI\libs\latromi-facades\Release\net48\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\net48\LATROMI.Facades.AWS.dll
