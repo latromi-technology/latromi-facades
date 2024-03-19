@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7W7VTavvIqss+vxDDWeiPxhP4Y6ZLmRj9VHmqPwolndtIe/3Jvmi/HtBQcdBFNMS/BaN+KFExm3IeyuoBJ53Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Dados\\DEV\\LATROMI Github\\Latromi-Facades\\src\\LATROMI.Facades.AWS\\LATROMI.Facades.AWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\awssdk.core\\3.7.302.19\\awssdk.core.3.7.302.19.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\awssdk.s3\\3.7.306.2\\awssdk.s3.3.7.306.2.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\bin\Release\netstandard2.0\LATROMI.Facades.AWS.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\bin\Release\netstandard2.0\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\bin\Release\netstandard2.0\LATROMI.Facades.AWS.pdb
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.csproj.AssemblyReference.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.AssemblyInfoInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.AssemblyInfo.cs
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.csproj.CoreCompileInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Release\netstandard2.0\LATROMI.Facades.AWS.pdb

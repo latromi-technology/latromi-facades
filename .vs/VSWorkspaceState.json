@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\LATROMI.Facades.GoogleDriveManager"
+    "\\src\\LATROMI.Facades.GoogleDrive"
   ],
+  "SelectedNode": "\\src\\LATROMI.Facades.GoogleDrive\\GoogleDriveUploader.cs",
   "PreviewInSolutionExplorer": false
 }
