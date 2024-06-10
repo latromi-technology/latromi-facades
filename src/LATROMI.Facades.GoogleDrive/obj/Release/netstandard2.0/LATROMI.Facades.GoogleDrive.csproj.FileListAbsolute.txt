@@ -12,3 +12,7 @@ C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\Release\netstandard2.0\LATROMI
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.deps.json
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.2.0.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.2.0.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.1.0.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.1.0.0\Release\netstandard2.0\LATROMI.Facades.GoogleDrive.dll

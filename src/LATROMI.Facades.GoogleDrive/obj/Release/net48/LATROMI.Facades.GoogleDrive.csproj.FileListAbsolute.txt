@@ -11,8 +11,10 @@ C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI.Facades.GoogleDrive.AssemblyInfoInputs.cache
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI.Facades.GoogleDrive.AssemblyInfo.cs
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI.Facades.GoogleDrive.csproj.CoreCompileInputs.cache
-C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI.Facades.GoogleDrive.csproj.CopyComplete
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI.Facades.GoogleDrive.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\distr\Release\net48\LATROMI.Facades.GoogleDrive.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\Release\net48\LATROMI.Facades.GoogleDrive.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\net48\LATROMI.Facades.GoogleDrive.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.GoogleDrive\obj\Release\net48\LATROMI..ED620227.Up2Date
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.2.0.0\Release\net48\LATROMI.Facades.GoogleDrive.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.1.0.0\Release\net48\LATROMI.Facades.GoogleDrive.dll

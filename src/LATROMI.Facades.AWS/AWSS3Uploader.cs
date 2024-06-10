@@ -94,7 +94,7 @@ namespace LATROMI.Facades.AWS
             }
         }
 
-        public void Delete(string fileKey)
+        public int Delete(string fileKey)
         {
             if (string.IsNullOrEmpty(fileKey))
             {
@@ -112,7 +112,12 @@ namespace LATROMI.Facades.AWS
             using (var client = new AmazonS3Client(_accessKeyId, _secretAccessKey, regionEndPoint))
             {
                 // Remove o arquivo do Amazon S3
-                client.DeleteObject(_bucketName, fileKey);
+#if NET48
+                var r = client.DeleteObject(_bucketName, fileKey);
+#else
+                var r = client.DeleteObjectAsync(_bucketName, fileKey).Result;
+#endif
+                return (int)r.HttpStatusCode;
             }
         }
 

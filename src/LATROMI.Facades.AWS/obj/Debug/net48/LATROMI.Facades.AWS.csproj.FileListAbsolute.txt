@@ -1,0 +1,8 @@
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Debug\net48\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.csproj.AssemblyReference.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.AssemblyInfoInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.AssemblyInfo.cs
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.csproj.CoreCompileInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI..DBF1969E.Up2Date
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.AWS\obj\Debug\net48\LATROMI.Facades.AWS.dll

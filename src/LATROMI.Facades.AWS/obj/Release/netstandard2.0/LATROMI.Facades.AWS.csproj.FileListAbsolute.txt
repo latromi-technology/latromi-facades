@@ -16,3 +16,7 @@ C:\LATROMI\libs\latromi-facades\Release\netstandard2.0\LATROMI.Facades.AWS.deps.
 C:\LATROMI\libs\latromi-facades\Release\netstandard2.0\LATROMI.Facades.AWS.dll
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\netstandard2.0\LATROMI.Facades.AWS.deps.json
 C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.0.1.0\Release\netstandard2.0\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.2.0.0\Release\netstandard2.0\LATROMI.Facades.AWS.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.2.0.0\Release\netstandard2.0\LATROMI.Facades.AWS.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.1.0.0\Release\netstandard2.0\LATROMI.Facades.AWS.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\distr\1.1.0.0\Release\netstandard2.0\LATROMI.Facades.AWS.dll
