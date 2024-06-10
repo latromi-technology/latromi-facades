@@ -50,11 +50,11 @@ namespace LATROMI.Facades.AWS
             _region = region;
         }
 
-        public string UploadFromFile(string filePath, string fileId = null)
+        public string UploadFromFile(string filePath, string fileKey = null)
         {
             using (var uploadStream = File.OpenRead(filePath))
             {
-                return Upload(uploadStream, fileId);
+                return Upload(uploadStream, fileKey);
             }
         }
 
@@ -65,7 +65,7 @@ namespace LATROMI.Facades.AWS
                 throw new ArgumentNullException(nameof(fileStream));
             }
 
-            if (fileKey  is null)
+            if (string.IsNullOrEmpty(fileKey))
             {
                 fileKey = Guid.NewGuid().ToString("N");
             }
@@ -91,6 +91,28 @@ namespace LATROMI.Facades.AWS
             catch (AmazonS3Exception)
             {
                 throw;
+            }
+        }
+
+        public void Delete(string fileKey)
+        {
+            if (string.IsNullOrEmpty(fileKey))
+            {
+                throw new ArgumentException($"'{nameof(fileKey)}' cannot be null or empty.", nameof(fileKey));
+            }
+
+            EnsureCredentialsSpecified();
+            EnsureBucketSpecified();
+            EnsureRegionSpecified();
+
+            // Obtém Endpoint da região
+            var regionEndPoint = Amazon.RegionEndpoint.GetBySystemName(_region);
+
+            // Cria um objeto de cliente AmazonS3
+            using (var client = new AmazonS3Client(_accessKeyId, _secretAccessKey, regionEndPoint))
+            {
+                // Remove o arquivo do Amazon S3
+                client.DeleteObject(_bucketName, fileKey);
             }
         }
 
