@@ -1,0 +1,11 @@
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.csproj.AssemblyReference.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.AssemblyInfoInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.AssemblyInfo.cs
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.csproj.CoreCompileInputs.cache
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.sourcelink.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\bin\Release\netstandard2.0\LATROMI.Facades.Azure.deps.json
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\bin\Release\netstandard2.0\LATROMI.Facades.Azure.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\bin\Release\netstandard2.0\LATROMI.Facades.Azure.pdb
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.dll
+C:\Dados\DEV\LATROMI Github\Latromi-Facades\src\LATROMI.Facades.Azure\obj\Release\netstandard2.0\LATROMI.Facades.Azure.pdb
