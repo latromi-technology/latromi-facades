@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LATROMI.Facades.AWS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0.0+b647c390ebab334287cb62588a8ccf87fa8adb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0.0+ba33ca44e211422d7dcb06098b08ff74a8a41937")]
 [assembly: System.Reflection.AssemblyProductAttribute("LATROMI.Facades.AWS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LATROMI.Facades.AWS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]
