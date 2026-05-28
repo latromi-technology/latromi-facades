@@ -1,9 +1,7 @@
-﻿using System;
-using System.Text;
+﻿using Google.Apis.Auth.OAuth2;
+using System;
 using System.IO;
 using System.Threading.Tasks;
-using Google.Apis.Auth.OAuth2;
-using System.Runtime.InteropServices;
 
 namespace LATROMI.Facades.GeminiAPI
 {
@@ -25,7 +23,7 @@ namespace LATROMI.Facades.GeminiAPI
 
         public GeminiAPITokenGenerator(FileInfo file)
         {
-            if (file == null) 
+            if (file == null)
                 throw new ArgumentNullException(nameof(file));
 
             if (!File.Exists(file.FullName))
