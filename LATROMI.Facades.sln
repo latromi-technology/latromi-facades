@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LATROMI.Facades.Azure", "sr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LATROMI.Facades.GeminiAPI", "src\LATROMI.Facades.GeminiAPI\LATROMI.Facades.GeminiAPI.csproj", "{DF0C50FF-CD3C-43D2-B1B6-E38DAC0D26CB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LATROMI.Facades.FileManager", "src\LATROMI.Facades.FileManager\LATROMI.Facades.FileManager.csproj", "{539D0D90-D8C4-467B-A4A0-50DC62F383D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{DF0C50FF-CD3C-43D2-B1B6-E38DAC0D26CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0C50FF-CD3C-43D2-B1B6-E38DAC0D26CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0C50FF-CD3C-43D2-B1B6-E38DAC0D26CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539D0D90-D8C4-467B-A4A0-50DC62F383D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539D0D90-D8C4-467B-A4A0-50DC62F383D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539D0D90-D8C4-467B-A4A0-50DC62F383D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539D0D90-D8C4-467B-A4A0-50DC62F383D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{8B8AD324-572C-48C3-886E-D11E421818F4} = {EAD23725-8154-44B4-AA18-A14FDCAF11BA}
 		{7B71CED4-EF9D-4B75-A8B4-CC9A7F9A312F} = {EAD23725-8154-44B4-AA18-A14FDCAF11BA}
 		{DF0C50FF-CD3C-43D2-B1B6-E38DAC0D26CB} = {EAD23725-8154-44B4-AA18-A14FDCAF11BA}
+		{539D0D90-D8C4-467B-A4A0-50DC62F383D9} = {EAD23725-8154-44B4-AA18-A14FDCAF11BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D58BECDD-8977-48D3-B75B-7CEA0A96A70B}
