@@ -10,23 +10,6 @@
     <BaseOutputPath>..\..\distr\$(AssemblyVersion)\</BaseOutputPath>
     <PackageOutputPath>$(OutputPath)</PackageOutputPath>
   </PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.0|AnyCPU'">
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net48|AnyCPU'">
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netstandard2.0|AnyCPU'">
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net48|AnyCPU'">
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-	
   <ItemGroup>
     <PackageReference Include="PDFsharp" Version="6.2.4" />
   </ItemGroup>
