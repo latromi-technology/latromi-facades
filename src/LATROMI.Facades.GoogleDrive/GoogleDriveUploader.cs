@@ -18,6 +18,8 @@ namespace LATROMI.Facades.GoogleDrive
     {
         private const string NullOrEmptyMessage = "'{0}' cannot be null or empty.";
         private const string NullOrWhiteSpaceMessage = "'{0}' cannot be null or whitespace.";
+
+        private const string LatromiShared = @"C:\LATROMI\shared";
         private const string PathStore = "LATROMI.G.AUTH";
 
         private readonly string[] _scopes = new string[] { DriveService.ScopeConstants.Drive };
@@ -55,7 +57,10 @@ namespace LATROMI.Facades.GoogleDrive
             }
             else
             {
+                EnsureMetadataDirectory();
+
                 byte[] buffer = Encoding.UTF8.GetBytes(content);
+                string fullPathStore = Path.Combine(LatromiShared, PathStore);
 
                 using (Stream credStream = new MemoryStream(buffer))
                 {
@@ -64,7 +69,7 @@ namespace LATROMI.Facades.GoogleDrive
                         _scopes,
                         "user",
                         CancellationToken.None,
-                        new FileDataStore(PathStore)
+                        new FileDataStore(fullPathStore)
                     ).GetAwaiter().GetResult();
                 }
             }
@@ -256,6 +261,9 @@ namespace LATROMI.Facades.GoogleDrive
                 throw new InvalidOperationException("Credentials are not provided.");
             }
         }
+
+        private void EnsureMetadataDirectory()
+            => Directory.CreateDirectory(LatromiShared);
 
         private Google.Apis.Drive.v3.Data.File CreateGoogleMetadata(string name, string mimeType, string parentId)
         {
