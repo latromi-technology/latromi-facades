@@ -6,12 +6,13 @@ namespace LATROMI.Facades.GoogleDrive.ServerSetup
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("====================================================================================");
-            Console.WriteLine("INICIALIZANDO.......................................................................");
-            Console.WriteLine("====================================================================================");
+            Console.WriteLine("=============================");
+            Console.WriteLine("INICIALIZANDO................");
+            Console.WriteLine("=============================");
 
             Console.Write("Caminho do arquivo de autenticacao: ");
             string authPath = Console.ReadLine().Replace("\"", "");
+            Console.WriteLine();
 
             try
             {
