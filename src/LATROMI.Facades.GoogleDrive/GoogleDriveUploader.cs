@@ -75,6 +75,14 @@ namespace LATROMI.Facades.GoogleDrive
             }
         }
 
+        public string GetAccessToken()
+        {
+            if (_credential is UserCredential userCredential)
+                return userCredential.Token.AccessToken;
+
+            return null;
+        }
+
         public void SetFolder(params string[] foldersIds)
             => _parentIds = new List<string>(foldersIds);
 
@@ -184,6 +192,46 @@ namespace LATROMI.Facades.GoogleDrive
                     throw response.Exception;
 
                 return updateRequest.ResponseBody.Id;
+            }
+        }
+
+        public void DeleteById(string fileId, bool force = false)
+        {
+            if (string.IsNullOrEmpty(fileId))
+                throw new ArgumentException(string.Format(NullOrEmptyMessage, nameof(fileId)), nameof(fileId));
+
+            EnsureCredentialsSpecified();
+
+            if (force)
+            {
+                using (var service = new DriveService(new BaseClientService.Initializer() {
+                    HttpClientInitializer = (IConfigurableHttpClientInitializer)_credential
+                }))
+                {
+                    var deleteRequest = service.Files.Delete(fileId);
+                    deleteRequest.SupportsAllDrives = true;
+                    deleteRequest.Fields = "id";
+
+                    deleteRequest.Execute();
+                }
+            }
+            else
+            {
+                var metadata = new Google.Apis.Drive.v3.Data.File()
+                {
+                    Trashed = true
+                };
+
+                using (var service = new DriveService(new BaseClientService.Initializer() {
+                     HttpClientInitializer = (IConfigurableHttpClientInitializer)_credential
+                }))
+                {
+                    var updateRequest = service.Files.Update(metadata, fileId);
+                    updateRequest.SupportsAllDrives = true;
+                    updateRequest.Fields = "id";
+
+                    updateRequest.Execute();
+                }
             }
         }
 
